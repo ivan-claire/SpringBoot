@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: ivanclare
+Build-Jdk: 11.0.4
+Implementation-Title: First Project API
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: io.ivanclare.springbootquickstart
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/first-project-
+ api/
+Created-By: Maven Integration for Eclipse
+
